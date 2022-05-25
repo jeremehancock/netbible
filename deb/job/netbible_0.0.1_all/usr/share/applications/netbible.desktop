@@ -3,7 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Name=NET Bible
 Comment=NET Bible
-Exec=chromium --app=https://netbible.org --window-size=1200,800
+Exec=netbible
 Icon=netbible.png
 Terminal=false
 Type=Application
