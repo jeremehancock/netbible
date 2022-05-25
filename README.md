@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jeremehancock/netbible/master/netbible-screenshot.png" />
 
-This app will display [NET Bible](https://netbible.org) as a web app.
+This app will display the Bible Web App from [NET Bible](https://netbible.org).
 
 ## Built for UbuntuCE:
 
@@ -10,5 +10,4 @@ This app will display [NET Bible](https://netbible.org) as a web app.
 
 ## Disclaimer
 
-All code is provided as-is without any warranty. This tool will download and setup a new hosts file. It will be making
-changes to your system and should be USED AT YOUR OWN RISK!
+All code is provided as-is without any warranty.
