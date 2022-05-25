@@ -2,7 +2,7 @@
 Title=NET Bible
 Startup=FMain
 Icon=netbible.png
-Version=0.0.5
+Version=0.0.7
 Component=gb.image
 Component=gb.gui
 Component=gb.form
@@ -14,7 +14,7 @@ Maintainer=Jereme Hancock
 Address=support@ubuntuce.com
 Url=ubuntuce.com
 License=General Public License
-PackageName=netbible-0.0.5
+PackageName=netbible-0.0.7
 Packager=1
 Systems=ubuntu
 Menus=ubuntu:"Applications/Education"

@@ -3,7 +3,7 @@
 { Form Form
   MoveScaled(0,0,150,100)
   Expand = True
-  Text = ("NetBible")
+  Text = ("NET Bible")
   Arrangement = Arrange.Fill
   AutoResize = True
   { NetBibleWebView WebView
