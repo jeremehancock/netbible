@@ -1,0 +1,14 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,150,100)
+  Expand = True
+  Text = ("NetBible")
+  Arrangement = Arrange.Fill
+  AutoResize = True
+  { NetBibleWebView WebView
+    MoveScaled(0,0,150,100)
+    Expand = True
+    Url = "https://netbible.org"
+  }
+}
