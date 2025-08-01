@@ -1,3 +1,5 @@
+## [Project End of Life Notice](https://ubuntuce.com)
+
 <h1><img src="https://raw.githubusercontent.com/jeremehancock/netbible/master/netbible.png" height="50" /> NET Bible</h1>
 
 <img src="https://raw.githubusercontent.com/jeremehancock/netbible/master/netbible-screenshot.png" />
